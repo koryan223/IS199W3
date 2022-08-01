@@ -2,6 +2,6 @@
 
 IS199 week 3 material
 
-##Semester
+## Semester
 
 Summer 2022
